@@ -1,6 +1,6 @@
 # ✌️ Boas vindas ao repositório do projeto TING(Trybe Is Not Google)!
 
-O projeto **TING** consiste em uma aplicação desenvolvida em **Python** que simula o algoritmo de indexação de documentos similar ao do Google. Ou seja, um programa que permita anexar arquivos de texto e posteriormente opere funções de busca sobre tais arquivos
+O projeto **TING** consiste em uma aplicação desenvolvida em **Python** pelo curso de desenvolvimento da Trybe, que simula o algoritmo de indexação de documentos similar ao do Google. Ou seja, um programa que permita anexar arquivos de texto e posteriormente opere funções de busca sobre tais arquivos
 
 Para padronização do código, foi utilizado o Linter Flake8.
 
